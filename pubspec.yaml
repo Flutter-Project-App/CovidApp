@@ -22,6 +22,9 @@ dependencies:
   shared_preferences:
   # Simple direct Service Locator
   get_it:
+  intl:
+  url_launcher:
+  http:
   #auth_nav
   auth_nav:
     git: https://github.com/dangngocduc/auth_nav
@@ -37,6 +40,12 @@ dev_dependencies:
   json_serializable:
   freezed:
   flutter_lints: ^1.0.4
+
+#analyzer:
+#  exclude:
+#    - "**/*.g.dart"
+#    - "**/*.freezed.dart"
+
 flutter:
   uses-material-design: true
   assets:
