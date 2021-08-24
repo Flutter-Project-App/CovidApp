@@ -25,6 +25,7 @@ dependencies:
   intl:
   url_launcher:
   http:
+  fl_paging:
   #auth_nav
   auth_nav:
     git: https://github.com/dangngocduc/auth_nav
