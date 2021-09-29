@@ -1,4 +1,5 @@
-# flutter_application
+# Covid App
+This app show some infomations about covid of countries.
 
 ## Structure
 - assets
